@@ -42,18 +42,16 @@ python setup.py install
 
 ## Tutorials
 
-
 Three step-by-step tutorials are included in the `Tutorial` folder to show how to use AddaGCN.
-- Tutorial
-- Tutorial
-- Tutorial
-- Tutorial
-- Tutorial
+- Tutorial_Developing_human_heart: This exploration is based on three developmental stages of the human embryonic heart, i.e., 4.5-5, 6.5, and 9 post-conception weeks (PCW).
+- Tutorial_mouse_brain: The anterior section of mouse brain.
+- Tutorial_PDAC-A: The pancreatic ductal adenocarcinoma (PDAC) slice A.
+- Tutorial_PDAC-B: The pancreatic ductal adenocarcinoma (PDAC) slice B.
+- Tutorial_seqFISH+: A simulated spatial transcriptomic dataset (seqFISH+ dataset).
 
 ## Support
 If you have any questions, please feel free to contact us dszspur@xju.edu.cn. 
 
-## Citation
 
 
 
